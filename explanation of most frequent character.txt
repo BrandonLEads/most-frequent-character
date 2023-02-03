@@ -1,0 +1,16 @@
+Write a program that lets the user enter a string and displays the character 
+that appears most frequently in the string.
+
+line 7 = it is a count variable that lists 26 intergers
+
+line 15 = it is a method that is converting ch to uppercase
+
+line 18 = it takes character and finds it in the letter string and returns 
+the number of the position in the letter string and assigns it to index.
+
+
+line 22 = it is redefining the count at position index by taking 
+the count at position index and adding 1 to it.
+
+line 26 = it is assigning variable frequent to i which is the 
+position with the greatest number in count.
